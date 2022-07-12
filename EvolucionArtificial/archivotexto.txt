@@ -1,0 +1,5 @@
+epoca: 10
+cantidad total de comida: 30
+ID Sembrador 0   Ubicacion: 0 4
+ID Sembrador 1   Ubicacion: 2 0
+ID Sembrador 2   Ubicacion: 3 3
